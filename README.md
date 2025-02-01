@@ -48,7 +48,7 @@ Aqui está a tabela formatada para o **README.md** de um repositório sobre Mach
 
 ---
 
-## 📌 **Tabela: Roadmap para Especialista em Machine Learning**  
+## 📌 **Tabela: Tipos de Aprendizado de Máquina (Machine Learning)
 
 | **Tipo de Aprendizado**          | **Principais Algoritmos/Técnicas**                                        | **Casos de Uso**                                                      | **Ideia Central**                                                                 |
 |----------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|
