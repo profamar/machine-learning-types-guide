@@ -61,7 +61,7 @@ Aqui está a tabela formatada para o **README.md** de um repositório sobre Mach
 | **Aprendizado por Transferência** | Fine-tuning de modelos pré-treinados                                   | Classificação de Imagens, Tradução de Texto                            | Utiliza modelos treinados em uma tarefa para melhorar o desempenho em outra tarefa similar. |
 | **Aprendizado Zero-Shot e Few-Shot** | Representações pré-treinadas, Aprendizado Meta                         | Classificação de Texto, Reconhecimento de Imagens                      | Generaliza para novas tarefas com pouco ou nenhum dado de treinamento específico. |
 
-(Gerado por ChatGPT)
+## (Gerado por ChatGPT)
 ---
 
 
@@ -79,7 +79,7 @@ Aqui está a tabela formatada para o **README.md** de um repositório sobre Mach
 | **Aprendizado Auto-Supervisionado** | Self-Supervised Learning | • Pré-treinamento de modelos<br>• Extração de características<br>• Representação de dados<br>• Aprendizado não supervisionado | Aprende representações úteis dos dados sem necessidade de rótulos externos, usando a própria estrutura dos dados como supervisão. |
 | **Automação de ML**         | Neural Architecture Search (NAS) | • Design automático de redes<br>• Otimização de arquiteturas<br>• AutoML<br>• Eficiência computacional | Busca automaticamente as melhores arquiteturas de redes neurais para uma tarefa específica, otimizando múltiplos objetivos. |
 
-(Gerado por Claude IA)
+## (Gerado por Claude IA)
 ---
 
 ## Contribuições
