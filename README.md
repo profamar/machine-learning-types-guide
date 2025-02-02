@@ -87,3 +87,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste re
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Coontato
+Para dúvidas ou sugestões, entre em contato pelo LinkedIn: Márcia Soares
+
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
