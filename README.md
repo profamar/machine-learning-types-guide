@@ -48,7 +48,7 @@ Aqui está a tabela formatada para o **README.md** de um repositório sobre Mach
 
 ---
 
-## 📌 **Tabela: Tipos de Aprendizado de Máquina (Machine Learning)
+## 📌 Tabela: Tipos de Aprendizado de Máquina (Machine Learning)
 
 | **Tipo de Aprendizado**          | **Principais Algoritmos/Técnicas**                                        | **Casos de Uso**                                                      | **Ideia Central**                                                                 |
 |----------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -61,12 +61,26 @@ Aqui está a tabela formatada para o **README.md** de um repositório sobre Mach
 | **Aprendizado por Transferência** | Fine-tuning de modelos pré-treinados                                   | Classificação de Imagens, Tradução de Texto                            | Utiliza modelos treinados em uma tarefa para melhorar o desempenho em outra tarefa similar. |
 | **Aprendizado Zero-Shot e Few-Shot** | Representações pré-treinadas, Aprendizado Meta                         | Classificação de Texto, Reconhecimento de Imagens                      | Generaliza para novas tarefas com pouco ou nenhum dado de treinamento específico. |
 
+Gerado por ChatGPT
 ---
 
-Caso queira personalizar mais, podemos incluir **exemplos práticos**, **frameworks recomendados** (como TensorFlow, Scikit-learn, PyTorch) ou **links para tutoriais**. 🚀
 
 
-Essa visão geral proporciona uma compreensão abrangente do campo do Machine Learning e suas diversas aplicações. 
+## 📌 Tabela Comparativa de Algoritmos Avançados de ML
+
+| Tipo de ML                   | Algoritmo/Técnica               | Uso Principal                                                                 | Ideia Central |
+|------------------------------|--------------------------------|----------------------------------------------------------------------------|---------------|
+| **Aprendizado Profundo**     | Transformers                  | • Processamento de Linguagem Natural (NLP)<br>• Tradução automática<br>• Geração de texto<br>• Análise de sequências | Utiliza mecanismos de atenção para processar sequências, permitindo que o modelo foque em diferentes partes dos dados de entrada de forma dinâmica e paralela. |
+| **Aprendizado em Grafos**    | Graph Neural Networks (GNNs)  | • Análise de redes sociais<br>• Descoberta de drogas<br>• Sistemas de recomendação<br>• Previsão de interações | Processa dados estruturados em grafos através da passagem de mensagens entre nós, capturando relações complexas entre entidades conectadas. |
+| **Aprendizado Generativo**   | Generative Adversarial Networks (GANs) | • Geração de imagens<br>• Síntese de dados<br>• Arte digital<br>• Aumento de resolução | Duas redes competem entre si: uma geradora que cria dados sintéticos e uma discriminadora que tenta identificar falsificações. |
+| **Aprendizado por Reforço**  | Deep Reinforcement Learning   | • Jogos<br>• Robótica<br>• Otimização de sistemas<br>• Controle autônomo | Agentes aprendem através de interação com um ambiente, recebendo recompensas por ações bem-sucedidas e penalidades por erros. |
+| **Aprendizado Generativo**   | Variational Autoencoders (VAEs) | • Compressão de dados<br>• Geração controlada<br>• Redução de dimensionalidade<br>• Detecção de anomalias | Aprende uma representação compacta (latente) dos dados e sua distribuição probabilística, permitindo geração controlada. |
+| **Meta-Aprendizado**        | Meta-Learning                 | • Few-shot learning<br>• Transferência de conhecimento<br>• Adaptação rápida<br>• Personalização de modelos | Desenvolve modelos que podem se adaptar rapidamente a novas tarefas com poucos exemplos de treinamento. |
+| **Aprendizado Auto-Supervisionado** | Self-Supervised Learning | • Pré-treinamento de modelos<br>• Extração de características<br>• Representação de dados<br>• Aprendizado não supervisionado | Aprende representações úteis dos dados sem necessidade de rótulos externos, usando a própria estrutura dos dados como supervisão. |
+| **Automação de ML**         | Neural Architecture Search (NAS) | • Design automático de redes<br>• Otimização de arquiteturas<br>• AutoML<br>• Eficiência computacional | Busca automaticamente as melhores arquiteturas de redes neurais para uma tarefa específica, otimizando múltiplos objetivos. |
+
+Gerado por Claude IA
+---
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste repositório e enviar pull requests.
