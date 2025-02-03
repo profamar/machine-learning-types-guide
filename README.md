@@ -88,6 +88,26 @@ Aqui está a tabela formatada para o **README.md** de um repositório sobre Mach
 
 ---
 
+# Tipos e Subtipos de Machine Learning
+
+| Tipo Principal | Subtipo | Descrição | Aplicações Típicas |
+|:---------------|:--------|:-----------|:-------------------|
+| **Aprendizado Supervisionado** | *Classificação* | Categoriza dados em classes predefinidas | Filtros de spam, diagnóstico médico, reconhecimento facial |
+| | *Regressão* | Prevê valores numéricos contínuos | Previsão de preços, estimativas de vendas, análise de séries temporais |
+| **Aprendizado Não Supervisionado** | *Clustering* | Agrupa dados similares sem rótulos prévios | Segmentação de clientes, agrupamento de documentos |
+| | *Redução de Dimensionalidade* | Reduz a complexidade dos dados | Compressão de dados, visualização de dados complexos |
+| | *Detecção de Anomalias* | Identifica padrões irregulares | Detecção de fraudes, monitoramento de sistemas |
+| **Aprendizado Semi-supervisionado** | - | Usa dados rotulados e não rotulados | Classificação de imagens com dados parcialmente rotulados |
+| **Aprendizado por Reforço** | - | Aprende por tentativa e erro com recompensas | Jogos, robótica, sistemas de controle |
+| **Deep Learning** | *CNN* | Redes especializadas em processamento de imagens | Reconhecimento de imagens, visão computacional |
+| | *RNN* | Redes para processamento de sequências | Tradução automática, previsão de séries temporais |
+| | *Transformers* | Arquitetura para processamento de linguagem | Chatbots, análise de sentimentos |
+| **Aprendizado por Transferência** | - | Reutiliza conhecimento entre modelos | Adaptação de modelos pré-treinados |
+| **Aprendizado Online** | - | Aprende continuamente com novos dados | Sistemas de recomendação em tempo real |
+| **Ensemble Learning** | *Bagging* | Combina modelos com subconjuntos diferentes | Random Forest |
+| | *Boosting* | Combina modelos sequencialmente | XGBoost, AdaBoost |
+| | *Stacking* | Usa meta-modelo para combinar previsões | Competições de ML, problemas complexos |
+
 # Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste repositório e enviar pull requests.
 
