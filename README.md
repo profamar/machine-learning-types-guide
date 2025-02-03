@@ -6,7 +6,7 @@ Machine Learning está revolucionando diversas áreas, mas entender seus tipos �
 
 ---
 
-# 📌 Tabela Complementar – Tipos de Machine Learning e seus Subtipos
+# 📌 Tabela – Tipos de Machine Learning e seus Subtipos
 
 | **Tipo de Aprendizado**            | **Subtipos** | **Principais Algoritmos/Técnicas** | **Casos de Uso** | **Ideia Central** |
 |-------------------------------------|-------------|-----------------------------------|-----------------|------------------|
