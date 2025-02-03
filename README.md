@@ -1,9 +1,18 @@
-# Explorando Além do Básico:
-# Tipos e Subtipos de Aprendizado de Máquina 
+# 📌 Explorando Além do Básico: Tipos e Subtipos de Aprendizado de Máquina
 
-Machine Learning está revolucionando diversas áreas, mas entender seus tipos é essencial para aplicá-lo de forma eficaz. Aqui está uma visão geral dos principais tipos de Machine Learning e suas aplicações:
+O Machine Learning está transformando diversas áreas e compreender seus diferentes tipos é essencial para aplicá-lo de forma eficaz. Este repositório foi criado para fornecer uma visão estruturada dos principais tipos de aprendizado de máquina, detalhando seus subtipos, algoritmos e aplicações.
 
 ![Descrição da Imagem](https://github.com/profamar/machine-learning-types-guide/blob/main/Design%20sem%20nome.jpg)
+
+# 🔍 O que você encontrará aqui
+
+📊 Tabelas organizadas com os principais tipos de Machine Learning, suas variações e casos de uso.
+🧠 Explicações detalhadas para facilitar o entendimento das técnicas utilizadas.
+🚀 Aplicações práticas para ilustrar como cada abordagem pode ser usada em diferentes cenários.
+
+Este material complementa os conteúdos da nossa Série Didática sobre Inteligência Artificial, expandindo a visão além dos conceitos básicos e permitindo uma compreensão mais aprofundada do aprendizado de máquina.
+
+Aproveite o conteúdo e explore as possibilidades do Machine Learning! 🚀🤖
 
 ---
 
