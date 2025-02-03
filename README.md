@@ -41,7 +41,7 @@ Gerado por ChatGPT
 
 ---
 
-## 📌 Tabela Comparativa de Algoritmos Avançados de ML
+## 📌 Tipos de Aprendizado de Máquina (Machine Learning)
 
 | Tipo de ML                   | Algoritmo/Técnica               | Uso Principal                                                                 | Ideia Central |
 |------------------------------|--------------------------------|----------------------------------------------------------------------------|---------------|
@@ -55,7 +55,7 @@ Gerado por ChatGPT
 | **Automação de ML**         | Neural Architecture Search (NAS) | • Design automático de redes<br>• Otimização de arquiteturas<br>• AutoML<br>• Eficiência computacional | Busca automaticamente as melhores arquiteturas de redes neurais para uma tarefa específica, otimizando múltiplos objetivos. |
 
 
-# Gerado por Claude IA
+Gerado por Claude IA
 
 ---
 
@@ -78,6 +78,8 @@ Gerado por ChatGPT
 | **Ensemble Learning** | *Bagging* | Combina modelos com subconjuntos diferentes | Random Forest |
 | | *Boosting* | Combina modelos sequencialmente | XGBoost, AdaBoost |
 | | *Stacking* | Usa meta-modelo para combinar previsões | Competições de ML, problemas complexos |
+
+Gerado por Claude IA
 
 # Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste repositório e enviar pull requests.
