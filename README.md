@@ -2,6 +2,8 @@
 
 Machine Learning está revolucionando diversas áreas, mas entender seus tipos é essencial para aplicá-lo de forma eficaz. Aqui está uma visão geral dos principais tipos de Machine Learning e suas aplicações:
 
+![Descrição da Imagem](URL_da_Imagem)
+
 ## Aprendizado Supervisionado
 🔹 **Algoritmos:** Redes Neurais (CNNs, RNNs), Árvores de Decisão, Gradient Boosting (XGBoost, LightGBM), Florestas Aleatórias  
 🔹 **Casos de Uso:** Detecção de Fraude, Previsão de Preço de Ações, Filtragem de Spam  
