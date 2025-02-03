@@ -2,7 +2,7 @@
 
 Machine Learning está revolucionando diversas áreas, mas entender seus tipos é essencial para aplicá-lo de forma eficaz. Aqui está uma visão geral dos principais tipos de Machine Learning e suas aplicações:
 
-![Descrição da Imagem](URL_da_Imagem)
+![Descrição da Imagem](https://github.com/profamar/machine-learning-types-guide/blob/main/Design%20sem%20nome.jpg)
 
 ---
 
