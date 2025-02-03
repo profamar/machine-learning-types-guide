@@ -50,6 +50,20 @@ Aqui está a tabela formatada para o **README.md** de um repositório sobre Mach
 
 ---
 
+# Tabela: Tipos de Aprendizado de Máquina (Machine Learning) e seus Subtipos
+
+| **Tipo de Aprendizado**            | **Subtipos** | **Principais Algoritmos/Técnicas** | **Casos de Uso** | **Ideia Central** |
+|-------------------------------------|-------------|-----------------------------------|-----------------|------------------|
+| **Aprendizado Supervisionado**     | - Classificação <br> - Regressão | Redes Neurais (CNNs, RNNs), Árvores de Decisão, XGBoost, Random Forests | Detecção de Fraude, Previsão de Preço de Ações, Filtragem de Spam | Treina em dados rotulados para prever resultados com alta precisão. |
+| **Aprendizado Semi-Supervisionado** | - Propagação de Rótulos <br> - GANs Semi-Supervisionados | Auto-Treinamento, GANs Semi-Supervisionados, Propagação de Rótulos | Reconhecimento de Fala, Imagem Médica | Usa dados rotulados e não rotulados para melhorar as previsões. |
+| **Aprendizado Não Supervisionado**  | - Agrupamento (Clustering) <br> - Redução de Dimensionalidade <br> - Detecção de Anomalias | PCA, Autoencoders, t-SNE, Isolation Forests, Modelos Ocultos de Markov | Segmentação de Clientes, Detecção de Anomalias | Descobre padrões e estruturas ocultas em dados não rotulados. |
+| **Aprendizado por Reforço**         | - Baseado em Valores <br> - Baseado em Políticas | Q-Learning, Deep Q-Learning, Gradientes de Política | Robótica, AI em Jogos (AlphaGo), Veículos Autônomos | Agentes aprendem a tomar decisões interagindo com o ambiente e recebendo recompensas. |
+| **Aprendizado Auto-Supervisionado** | - Modelos Pré-Treinados <br> - Autoencoder Variacional | Modelos pré-treinados como BERT, GPT | Processamento de Linguagem Natural, Visão Computacional | O modelo aprende a prever partes dos dados de entrada sem rótulos externos. |
+| **Aprendizado Multi-Tarefa**        | - Aprendizado Conjunto <br> - Transferência de Aprendizado | Treinamento conjunto em várias tarefas, Transferência de aprendizado | Diagnóstico Médico, Assistentes Virtuais | Compartilha representações entre tarefas para melhorar o desempenho geral. |
+| **Aprendizado por Transferência**   | - Fine-Tuning <br> - Feature Extraction | Fine-tuning de modelos pré-treinados | Classificação de Imagens, Tradução de Texto | Utiliza modelos treinados em uma tarefa para melhorar o desempenho em outra tarefa similar. |
+| **Aprendizado Zero-Shot e Few-Shot** | - Meta-Aprendizado <br> - Modelos de Representação | Representações pré-treinadas, Aprendizado Meta | Classificação de Texto, Reconhecimento de Imagens | Generaliza para novas tarefas com pouco ou nenhum dado de treinamento específico. |
+
+
 ## 📌 Tabela: Tipos de Aprendizado de Máquina (Machine Learning)
 
 | **Tipo de Aprendizado**          | **Principais Algoritmos/Técnicas**                                        | **Casos de Uso**                                                      | **Ideia Central**                                                                 |
