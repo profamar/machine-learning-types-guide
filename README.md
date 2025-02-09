@@ -91,7 +91,7 @@ Gerado por Claude IA
 
 Gerado por Claude IA
 
-# Aplicações de Machine Learning no Dia a Dia
+# 📌 Aplicações de Machine Learning no Dia a Dia
 
 | Aplicação                   | Descrição |
 |-----------------------------|-----------|
